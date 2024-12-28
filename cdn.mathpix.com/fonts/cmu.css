@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "CMU Serif";
+  font-weight: 500;
+  font-style: normal;
+  src: local("CMU Serif"), url("CMUSerif-Roman.eot");
+  src: local("CMU Serif"),
+    url("CMUSerif-Roman.eot?#iefix") format("embedded-opentype"),
+    url("CMUSerif-Roman.woff2") format("woff2"),
+    url("CMUSerif-Roman.woff") format("woff"),
+    url("CMUSerif-Roman.ttf") format("truetype"),
+    url("CMUSerif-Roman.svg#CMUSansSerif") format("svg");
+}
+
+@font-face {
+  font-family: "CMU Serif Bold";
+  font-weight: bold;
+  font-style: normal;
+  src: local("CMU Serif Bold"), url("CMUSerif-Bold.eot");
+  src: local("CMU Serif Bold"),
+    url("CMUSerif-Bold.eot?#iefix") format("embedded-opentype"),
+    url("CMUSerif-Bold.woff2") format("woff2"),
+    url("CMUSerif-Bold.woff") format("woff"),
+    url("CMUSerif-Bold.ttf") format("truetype"),
+    url("CMUSerif-Bold.svg#CMUSerif-Bold") format("svg");
+}
+
+@font-face {
+  font-family: "CMU Serif Italic";
+  font-weight: 500;
+  font-style: italic;
+  src: local("CMU Serif Italic"), url("CMUClassicalSerif-Italic.eot");
+  src: local("CMU Serif Italic"),
+    url("CMUClassicalSerif-Italic.eot?#iefix") format("embedded-opentype"),
+    url("CMUClassicalSerif-Italic.woff2") format("woff2"),
+    url("CMUClassicalSerif-Italic.woff") format("woff"),
+    url("CMUClassicalSerif-Italic.ttf") format("truetype"),
+    url("CMUClassicalSerif-Italic.svg#CMUClassicalSerif-Italic") format("svg");
+}
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  font-weight: 500;
+  font-style: normal;
+  src: local("CMU Sans Serif"), url("CMUSansSerif.eot");
+  src: local("CMU Sans Serif"),
+    url("CMUSansSerif.eot?#iefix") format("embedded-opentype"),
+    url("CMUSansSerif.woff2") format("woff2"),
+    url("CMUSansSerif.woff") format("woff"),
+    url("CMUSansSerif.ttf") format("truetype"),
+    url("CMUSansSerif.svg#CMUSansSerif") format("svg");
+}
+
+@font-face {
+  font-family: "CMU Sans Serif Bold";
+  font-weight: bold;
+  font-style: normal;
+  src: local("CMU Sans Serif Bold"), url("CMUSansSerif-Bold.eot");
+  src: local("CMU Sans Serif Bold"),
+    url("CMUSansSerif-Bold.eot?#iefix") format("embedded-opentype"),
+    url("CMUSansSerif-Bold.woff2") format("woff2"),
+    url("CMUSansSerif-Bold.woff") format("woff"),
+    url("CMUSansSerif-Bold.ttf") format("truetype"),
+    url("CMUSansSerif-Bold.svg#CMUSansSerif-Bold") format("svg");
+}
